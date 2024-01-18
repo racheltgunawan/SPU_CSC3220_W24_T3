@@ -3,5 +3,5 @@
 ### Team members/Github ID
 - Wendy Arenas Rosas
 - Alex Chan/chana8spu
-- Tien Le
+- Tien Le/tienle02
 - Rachel Gunawan/racheltgunawan
