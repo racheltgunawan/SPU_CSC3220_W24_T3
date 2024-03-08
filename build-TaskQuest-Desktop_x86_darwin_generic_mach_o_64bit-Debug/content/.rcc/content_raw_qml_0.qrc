@@ -1,8 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/content/">
-    <file alias="App.qml">/Users/rachelgunawan/Documents/GitHub/SPU_CSC3220_W24_T3/TaskQuest/content/App.qml</file>
-    <file alias="Screen01.ui.qml">/Users/rachelgunawan/Documents/GitHub/SPU_CSC3220_W24_T3/TaskQuest/content/Screen01.ui.qml</file>
-    <file alias="fonts/fonts.txt">/Users/rachelgunawan/Documents/GitHub/SPU_CSC3220_W24_T3/TaskQuest/content/fonts/fonts.txt</file>
-  </qresource>
-</RCC>
-

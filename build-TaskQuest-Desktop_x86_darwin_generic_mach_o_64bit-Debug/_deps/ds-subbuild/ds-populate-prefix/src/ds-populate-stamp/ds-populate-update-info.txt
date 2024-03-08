@@ -1,7 +1,0 @@
-# This is a generated file and its contents are an internal implementation detail.
-# The patch step will be re-executed if anything in this file changes.
-# No other meaning or use of this file is supported.
-
-command (connected)=/Users/rachelgunawan/Qt/Tools/CMake/CMake.app/Contents/bin/cmake;-Dcan_fetch=YES;-P;/Users/rachelgunawan/Documents/GitHub/SPU_CSC3220_W24_T3/build-TaskQuest-Desktop_x86_darwin_generic_mach_o_64bit-Debug/_deps/ds-subbuild/ds-populate-prefix/tmp/ds-populate-gitupdate.cmake
-command (disconnected)=/Users/rachelgunawan/Qt/Tools/CMake/CMake.app/Contents/bin/cmake;-Dcan_fetch=NO;-P;/Users/rachelgunawan/Documents/GitHub/SPU_CSC3220_W24_T3/build-TaskQuest-Desktop_x86_darwin_generic_mach_o_64bit-Debug/_deps/ds-subbuild/ds-populate-prefix/tmp/ds-populate-gitupdate.cmake
-work_dir=/Users/rachelgunawan/Documents/GitHub/SPU_CSC3220_W24_T3/build-TaskQuest-Desktop_x86_darwin_generic_mach_o_64bit-Debug/_deps/ds-src
