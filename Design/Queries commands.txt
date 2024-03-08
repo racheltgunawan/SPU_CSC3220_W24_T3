@@ -1,8 +1,0 @@
-UPDATE Folder
-     SET name="Home chores"
-     WHERE name = "Folder 1"
-
-SELECT t.name, f.name
-     FROM task t
-    JOIN Folder f ON t.folderID = f.folderID
-WHERE f.folderID = 1
