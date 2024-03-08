@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/qt/qml/TaskQuest/">
+    <file alias="Constants.qml">/Users/rachelgunawan/Documents/GitHub/SPU_CSC3220_W24_T3/TaskQuest/imports/TaskQuest/Constants.qml</file>
+    <file alias="DirectoryFontLoader.qml">/Users/rachelgunawan/Documents/GitHub/SPU_CSC3220_W24_T3/TaskQuest/imports/TaskQuest/DirectoryFontLoader.qml</file>
+    <file alias="EventListModel.qml">/Users/rachelgunawan/Documents/GitHub/SPU_CSC3220_W24_T3/TaskQuest/imports/TaskQuest/EventListModel.qml</file>
+    <file alias="EventListSimulator.qml">/Users/rachelgunawan/Documents/GitHub/SPU_CSC3220_W24_T3/TaskQuest/imports/TaskQuest/EventListSimulator.qml</file>
+  </qresource>
+</RCC>
+
