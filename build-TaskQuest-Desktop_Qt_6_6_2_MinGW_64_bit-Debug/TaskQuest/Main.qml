@@ -17,7 +17,7 @@ ApplicationWindow {
             style: Text.Outline
             styleColor: "gray"
             color: "white"
-            text: qsTr("Welcome to TaskQuest")
+            text: qsTr("Welcome to <b>TaskQuest<\b>")
         }
         Switch {
                 text: qsTr("Task in progress?")

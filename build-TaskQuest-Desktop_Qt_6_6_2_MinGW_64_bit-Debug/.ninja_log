@@ -117,3 +117,14 @@
 309	408	7317193945741673	CMakeFiles/appTaskQuest.dir/.rcc/qrc_appTaskQuest_raw_qml_0.cpp.obj	11aa183a8a82be55
 298	1516	7317193956809578	CMakeFiles/appTaskQuest.dir/.rcc/qmlcache/appTaskQuest_Main_qml.cpp.obj	e2e6cfabfa8e996d
 1516	1752	7317193959148279	appTaskQuest.exe	1194ab324b436f05
+9	85	7317201878470100	TaskQuest/Main.qml	ee702c0349a20b9a
+9	85	7317201878470100	C:/development/SPU_CSC3220_W24_T3/build-TaskQuest-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/TaskQuest/Main.qml	ee702c0349a20b9a
+29	260	7317201880188214	.qt_plugins/Qt6_QmlPlugins_Imports_appTaskQuest.cmake	548f24e3dfc7f8a7
+29	260	7317201880188214	C:/development/SPU_CSC3220_W24_T3/build-TaskQuest-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appTaskQuest.cmake	548f24e3dfc7f8a7
+260	338	7317201880998824	.rcc/qrc_appTaskQuest_raw_qml_0.cpp	d0fcba289ba1d6ca
+260	338	7317201880998824	C:/development/SPU_CSC3220_W24_T3/build-TaskQuest-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/.rcc/qrc_appTaskQuest_raw_qml_0.cpp	d0fcba289ba1d6ca
+276	454	7317201882079761	.rcc/qmlcache/appTaskQuest_Main_qml.cpp	f036607fd64964bd
+276	454	7317201882079761	C:/development/SPU_CSC3220_W24_T3/build-TaskQuest-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/.rcc/qmlcache/appTaskQuest_Main_qml.cpp	f036607fd64964bd
+467	751	7317201885100463	CMakeFiles/appTaskQuest.dir/.rcc/qrc_appTaskQuest_raw_qml_0.cpp.obj	11aa183a8a82be55
+454	2106	7317201898521818	CMakeFiles/appTaskQuest.dir/.rcc/qmlcache/appTaskQuest_Main_qml.cpp.obj	e2e6cfabfa8e996d
+2106	2487	7317201902404215	appTaskQuest.exe	1194ab324b436f05
