@@ -3,12 +3,10 @@ import QtQuick.Controls
 
 ApplicationWindow {
     id: root
-    title: "Component Demo"
-    width: 360
-    height: 800
-    minimumHeight: 600
-    minimumWidth: 270
     visible: true
+    title: "Component Demo"
+    width: 540
+    height: 960
 
 
     Column{
