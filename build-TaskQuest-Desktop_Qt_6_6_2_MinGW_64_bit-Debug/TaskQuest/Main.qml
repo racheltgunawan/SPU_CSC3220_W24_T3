@@ -5,8 +5,13 @@ ApplicationWindow {
     id: root
     visible: true
     title: "Component Demo"
+<<<<<<< Updated upstream
     width: 540
     height: 960
+=======
+    width: 400
+    height: 300
+>>>>>>> Stashed changes
 
 
     Column{

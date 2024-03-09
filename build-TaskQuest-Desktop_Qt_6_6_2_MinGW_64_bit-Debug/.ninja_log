@@ -37,6 +37,7 @@
 3797	4019	7316438707858119	appTaskQuest.exe	74f8d111296e49f4
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 243	311	7316447464036136	TaskQuest/CustomButton.qml	22263c075a73c004
 243	311	7316447464036136	C:/development/SPU_CSC3220_W24_T3/build-TaskQuest-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/TaskQuest/CustomButton.qml	22263c075a73c004
 262	335	7316447464266410	TaskQuest/Main.qml	ee702c0349a20b9a
@@ -218,4 +219,47 @@
 577	677	7317131734918515	CMakeFiles/appTaskQuest.dir/.rcc/qrc_appTaskQuest_raw_qml_0.cpp.obj	11aa183a8a82be55
 564	1981	7317131747906072	CMakeFiles/appTaskQuest.dir/.rcc/qmlcache/appTaskQuest_Main_qml.cpp.obj	e2e6cfabfa8e996d
 1981	2239	7317131750388366	appTaskQuest.exe	1194ab324b436f05
+>>>>>>> Stashed changes
+=======
+20	105	7317142480788697	TaskQuest/Main.qml	ee702c0349a20b9a
+20	105	7317142480788697	C:/development/SPU_CSC3220_W24_T3/build-TaskQuest-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/TaskQuest/Main.qml	ee702c0349a20b9a
+3	125	7317142480950471	.rcc/qmlcache/appTaskQuest_qmlcache_loader.cpp	cdef283f9ded3f05
+3	125	7317142480950471	C:/development/SPU_CSC3220_W24_T3/build-TaskQuest-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/.rcc/qmlcache/appTaskQuest_qmlcache_loader.cpp	cdef283f9ded3f05
+39	128	7317142481020533	TaskQuest/CustomButton.qml	22263c075a73c004
+39	128	7317142481020533	C:/development/SPU_CSC3220_W24_T3/build-TaskQuest-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/TaskQuest/CustomButton.qml	22263c075a73c004
+73	211	7317142481843802	.qt_plugins/Qt6_QmlPlugins_Imports_appTaskQuest.cmake	548f24e3dfc7f8a7
+73	211	7317142481843802	C:/development/SPU_CSC3220_W24_T3/build-TaskQuest-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appTaskQuest.cmake	548f24e3dfc7f8a7
+212	432	7317142483482654	appTaskQuest_autogen/timestamp	9d414638b9e9c893
+212	432	7317142483482654	appTaskQuest_autogen/mocs_compilation.cpp	9d414638b9e9c893
+212	432	7317142483482654	C:/development/SPU_CSC3220_W24_T3/build-TaskQuest-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/appTaskQuest_autogen/timestamp	9d414638b9e9c893
+212	432	7317142483482654	C:/development/SPU_CSC3220_W24_T3/build-TaskQuest-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/appTaskQuest_autogen/mocs_compilation.cpp	9d414638b9e9c893
+432	502	7317142484772915	.rcc/qrc_qmake_TaskQuest.cpp	de426e3090208e66
+432	502	7317142484772915	C:/development/SPU_CSC3220_W24_T3/build-TaskQuest-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/.rcc/qrc_qmake_TaskQuest.cpp	de426e3090208e66
+448	523	7317142483482654	meta_types/appTaskQuest_json_file_list.txt	3dd7a72d8e3e2145
+448	523	7317142483482654	meta_types/appTaskQuest_json_file_list.txt.timestamp	3dd7a72d8e3e2145
+448	523	7317142483482654	C:/development/SPU_CSC3220_W24_T3/build-TaskQuest-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/meta_types/appTaskQuest_json_file_list.txt	3dd7a72d8e3e2145
+448	523	7317142483482654	C:/development/SPU_CSC3220_W24_T3/build-TaskQuest-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/meta_types/appTaskQuest_json_file_list.txt.timestamp	3dd7a72d8e3e2145
+463	544	7317142485135420	.rcc/qrc_appTaskQuest_raw_qml_0.cpp	d0fcba289ba1d6ca
+463	544	7317142485135420	C:/development/SPU_CSC3220_W24_T3/build-TaskQuest-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/.rcc/qrc_appTaskQuest_raw_qml_0.cpp	d0fcba289ba1d6ca
+523	616	7317142485898145	meta_types/qt6apptaskquest_debug_metatypes.json.gen	cf98ea781190537d
+523	616	7317142485898145	meta_types/qt6apptaskquest_debug_metatypes.json	cf98ea781190537d
+523	616	7317142485898145	C:/development/SPU_CSC3220_W24_T3/build-TaskQuest-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/meta_types/qt6apptaskquest_debug_metatypes.json.gen	cf98ea781190537d
+523	616	7317142485898145	C:/development/SPU_CSC3220_W24_T3/build-TaskQuest-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/meta_types/qt6apptaskquest_debug_metatypes.json	cf98ea781190537d
+616	784	7317142486908810	apptaskquest_qmltyperegistrations.cpp	9cb957ff7fc25bf6
+616	784	7317142486908810	TaskQuest/appTaskQuest.qmltypes	9cb957ff7fc25bf6
+616	784	7317142486908810	C:/development/SPU_CSC3220_W24_T3/build-TaskQuest-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/apptaskquest_qmltyperegistrations.cpp	9cb957ff7fc25bf6
+616	784	7317142486908810	C:/development/SPU_CSC3220_W24_T3/build-TaskQuest-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/TaskQuest/appTaskQuest.qmltypes	9cb957ff7fc25bf6
+785	971	7317142489378042	.rcc/qmlcache/appTaskQuest_CustomButton_qml.cpp	39077ab31cf95552
+785	971	7317142489378042	C:/development/SPU_CSC3220_W24_T3/build-TaskQuest-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/.rcc/qmlcache/appTaskQuest_CustomButton_qml.cpp	39077ab31cf95552
+802	975	7317142489378042	.rcc/qmlcache/appTaskQuest_Main_qml.cpp	f036607fd64964bd
+802	975	7317142489378042	C:/development/SPU_CSC3220_W24_T3/build-TaskQuest-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/.rcc/qmlcache/appTaskQuest_Main_qml.cpp	f036607fd64964bd
+999	1193	7317142491348668	CMakeFiles/appTaskQuest.dir/.rcc/qrc_qmake_TaskQuest.cpp.obj	a53b0d013d147fee
+1028	1197	7317142491658884	CMakeFiles/appTaskQuest.dir/appTaskQuest_autogen/mocs_compilation.cpp.obj	4f606be7353042dc
+1153	1283	7317142492529296	CMakeFiles/appTaskQuest.dir/.rcc/qrc_appTaskQuest_raw_qml_0.cpp.obj	11aa183a8a82be55
+975	2677	7317142506433425	CMakeFiles/appTaskQuest.dir/apptaskquest_qmltyperegistrations.cpp.obj	685fbba2f05af3f9
+986	3074	7317142510435990	CMakeFiles/appTaskQuest.dir/main.cpp.obj	9fd1fb5367f24a0a
+1110	3151	7317142511208971	CMakeFiles/appTaskQuest.dir/.rcc/qmlcache/appTaskQuest_CustomButton_qml.cpp.obj	47706667e885e371
+1056	3183	7317142511538723	CMakeFiles/appTaskQuest.dir/.rcc/qmlcache/appTaskQuest_qmlcache_loader.cpp.obj	526fbd5da26e6286
+1083	3271	7317142512412459	CMakeFiles/appTaskQuest.dir/.rcc/qmlcache/appTaskQuest_Main_qml.cpp.obj	e2e6cfabfa8e996d
+3271	3573	7317142515418331	appTaskQuest.exe	1194ab324b436f05
 >>>>>>> Stashed changes
