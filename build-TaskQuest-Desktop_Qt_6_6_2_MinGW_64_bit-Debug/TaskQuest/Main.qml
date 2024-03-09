@@ -4,7 +4,7 @@ import QtQuick.Controls
 ApplicationWindow {
     id: root
     visible: true
-    title: "Component Demo"
+    title: "TaskQuest"
     width: 540
     height: 960
 
@@ -12,17 +12,27 @@ ApplicationWindow {
     Column{
         spacing: 10
         anchors.centerIn: parent
-
-        CustomButton{
-            id:btn1
-            buttonText: "Button 1"
-            onButtonClicked: console.log("Button 1 clicked")
+        Text {
+            font.pointSize: 30
+            style: Text.Outline
+            styleColor: "gray"
+            color: "white"
+            text: qsTr("Welcome to TaskQuest")
         }
-
-        CustomButton{
-            id: btn2
-            buttonText: "Button 2"
-            onButtonClicked: console.log("Button 2 clicked")
+        Switch {
+                text: qsTr("Task in progress?")
+            }
+        Text {
+            text: qsTr("Active tasks:")
         }
+        Switch {
+                text: qsTr("Chores")
+            }
+        Switch {
+                text: qsTr("Homework")
+            }
+        Switch {
+                text: qsTr("Vacuum")
+            }
     }
 }
