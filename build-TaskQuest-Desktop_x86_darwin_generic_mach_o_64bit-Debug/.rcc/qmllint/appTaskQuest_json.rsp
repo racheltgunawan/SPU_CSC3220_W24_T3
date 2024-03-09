@@ -1,0 +1,13 @@
+--bare
+-I
+/Users/rachelgunawan/Documents/GitHub/SPU_CSC3220_W24_T3/build-TaskQuest-Desktop_x86_darwin_generic_mach_o_64bit-Debug
+-I
+/Users/rachelgunawan/Qt/6.6.2/macos/./qml
+--resource
+/Users/rachelgunawan/Documents/GitHub/SPU_CSC3220_W24_T3/build-TaskQuest-Desktop_x86_darwin_generic_mach_o_64bit-Debug/.rcc/qmake_TaskQuest.qrc
+--resource
+/Users/rachelgunawan/Documents/GitHub/SPU_CSC3220_W24_T3/build-TaskQuest-Desktop_x86_darwin_generic_mach_o_64bit-Debug/.rcc/appTaskQuest_raw_qml_0.qrc
+/Users/rachelgunawan/Documents/GitHub/SPU_CSC3220_W24_T3/TaskQuest/Main.qml
+/Users/rachelgunawan/Documents/GitHub/SPU_CSC3220_W24_T3/TaskQuest/CustomButton.qml
+--json
+/Users/rachelgunawan/Documents/GitHub/SPU_CSC3220_W24_T3/build-TaskQuest-Desktop_x86_darwin_generic_mach_o_64bit-Debug/appTaskQuest_qmllint.json

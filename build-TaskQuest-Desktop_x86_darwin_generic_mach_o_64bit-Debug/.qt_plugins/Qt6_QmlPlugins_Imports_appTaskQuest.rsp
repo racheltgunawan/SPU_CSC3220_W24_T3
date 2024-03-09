@@ -1,0 +1,14 @@
+-rootPath
+/Users/rachelgunawan/Documents/GitHub/SPU_CSC3220_W24_T3/TaskQuest
+-cmake-output
+-output-file
+/Users/rachelgunawan/Documents/GitHub/SPU_CSC3220_W24_T3/build-TaskQuest-Desktop_x86_darwin_generic_mach_o_64bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appTaskQuest.cmake
+-importPath
+/Users/rachelgunawan/Documents/GitHub/SPU_CSC3220_W24_T3/build-TaskQuest-Desktop_x86_darwin_generic_mach_o_64bit-Debug/TaskQuest
+-importPath
+/Users/rachelgunawan/Documents/GitHub/SPU_CSC3220_W24_T3/build-TaskQuest-Desktop_x86_darwin_generic_mach_o_64bit-Debug
+-importPath
+/Users/rachelgunawan/Qt/6.6.2/macos/./qml
+-qrcFiles
+/Users/rachelgunawan/Documents/GitHub/SPU_CSC3220_W24_T3/build-TaskQuest-Desktop_x86_darwin_generic_mach_o_64bit-Debug/.rcc/qmake_TaskQuest.qrc
+/Users/rachelgunawan/Documents/GitHub/SPU_CSC3220_W24_T3/build-TaskQuest-Desktop_x86_darwin_generic_mach_o_64bit-Debug/.rcc/appTaskQuest_raw_qml_0.qrc

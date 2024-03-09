@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/TaskQuest/">
+    <file alias="Main.qml">/Users/rachelgunawan/Documents/GitHub/SPU_CSC3220_W24_T3/TaskQuest/Main.qml</file>
+    <file alias="CustomButton.qml">/Users/rachelgunawan/Documents/GitHub/SPU_CSC3220_W24_T3/TaskQuest/CustomButton.qml</file>
+  </qresource>
+</RCC>
+
