@@ -15,6 +15,7 @@ ApplicationWindow {
         radius: 10         //make edges round
     }
     Column {
+
         spacing: 5
         anchors.centerIn: parent
         Text {
