@@ -8,14 +8,19 @@ ApplicationWindow {
     width: 540
     height: 960
 
-
+    Rectangle {
+        width: 540
+        height: 960
+        color: "#feefde"
+        radius: 10         //make edges round
+    }
     Column {
         spacing: 5
         anchors.centerIn: parent
         Text {
             font.pointSize: 60
             style: Text.Outline
-            styleColor: "gray"
+            styleColor: "#1f1e33"
             color: "white"
             text: qsTr("<b>TaskQuest<\b>")
         }
