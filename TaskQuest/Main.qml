@@ -5,8 +5,8 @@ ApplicationWindow {
     id: root
     visible: true
     title: "Component Demo"
-    width: 400
-    height: 300
+    width: 540
+    height: 960
 
 
     Column{
